@@ -6,7 +6,7 @@
 
 variables:
   azureSubscription: TTapp
-  resourcegroup: 
+  resourcegroup: TTapp
   location: eastus
   ImageName: website
 
