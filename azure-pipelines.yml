@@ -5,9 +5,9 @@
 
 
 variables:
-  azureSubscription: <<Connection-name-of your-ARM endpoint>>
-  resourcegroup: <<name-of-your-resource-group>>
-  location: <<location of your resources>>
+  azureSubscription: TTapp
+  resourcegroup: 
+  location: eastus
   ImageName: website
 
 steps:
