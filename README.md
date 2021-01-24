@@ -1,4 +1,10 @@
-# Tailwind Traders Website
+[![Build Status](https://dev.azure.com/tradingautonmationapp/tradingautomationapp/_apis/build/status/mubasharchand.TailwindTraders-Website?branchName=main)](https://dev.azure.com/tradingautonmationapp/tradingautomationapp/_build/latest?definitionId=3&branchName=main)
+
+# Tailwind Traders Website    Sample Reference Application
+
+WE build and test application as devops team 
+
+
 
 ![Tailwind Traders Website](Documents/Images/Website.png)
 
